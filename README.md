@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vijaykumarparelli
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on react based
